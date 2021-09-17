@@ -15,6 +15,3 @@ function divide_free(a,b){
   return a/b;
 }
 
-function say_hello(){ 
-  console.log("Hello")
-}
