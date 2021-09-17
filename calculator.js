@@ -13,4 +13,4 @@ function multiply(a,b){
 
 function divide_premium(a,b){ 
   return a/b;
-}
+} 
